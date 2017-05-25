@@ -34,7 +34,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'capistrano-rails', group: :development
 gem 'paperclip'
 
-gem 'rmagick'
+#gem 'rmagick'
 
 
 group :development, :test do
